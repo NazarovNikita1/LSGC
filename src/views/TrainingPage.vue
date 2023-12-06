@@ -1,5 +1,5 @@
 <template>
-  <div class="training-container">tr</div>
+  <div class="training-container">Ждем трейнинг дейту</div>
 </template>
 
 <style>
