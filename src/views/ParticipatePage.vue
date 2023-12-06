@@ -1,52 +1,14 @@
 <template>
   <div class="participate-container">
-    <form
-      method="POST"
-      action="https://docs.google.com/forms/d/e/1FAIpQLSccYqEgpFmut4613Y8ybY_mz0BQ-lHS3mLqcFvIXxO-DA697Q/viewform"
-      target="_blank"
+    <iframe
+      src="https://docs.google.com/forms/d/e/1FAIpQLSccYqEgpFmut4613Y8ybY_mz0BQ-lHS3mLqcFvIXxO-DA697Q/viewform?embedded=true"
+      width="640"
+      height="927"
+      frameborder="0"
+      marginheight="0"
+      marginwidth="0"
+      >Загрузка…</iframe
     >
-      <div style="display: flex; justify-content: end">
-        <label>
-          Team Name:
-          <input
-            v-model="teamName"
-            type="text"
-            name="entry.1609912934"
-            required
-          />
-        </label>
-      </div>
-      <div style="display: flex; justify-content: end">
-        <label>
-          Member Names:
-          <input
-            v-model="memberNames"
-            type="text"
-            name="entry.243315525"
-            required
-            placeholder="Separate names with commas"
-          />
-        </label>
-      </div>
-      <div style="display: flex; justify-content: end">
-        <label>
-          Email:
-          <input v-model="email" type="email" name="entry.676774802" required />
-        </label>
-      </div>
-      <div style="display: flex; justify-content: end">
-        <label>
-          Contacts:
-          <input
-            v-model="contacts"
-            type="text"
-            name="entry.1364162779"
-            required
-          />
-        </label>
-      </div>
-      <button type="submit">Submit</button>
-    </form>
   </div>
 </template>
 
