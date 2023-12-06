@@ -1,10 +1,19 @@
 <template>
   <div class="participate-container">
-    <form @submit.prevent="submitForm">
+    <form
+      method="POST"
+      action="https://docs.google.com/forms/d/e/1FAIpQLSccYqEgpFmut4613Y8ybY_mz0BQ-lHS3mLqcFvIXxO-DA697Q/viewform"
+      target="_blank"
+    >
       <div style="display: flex; justify-content: end">
         <label>
           Team Name:
-          <input v-model="teamName" type="text" required />
+          <input
+            v-model="teamName"
+            type="text"
+            name="entry.1609912934"
+            required
+          />
         </label>
       </div>
       <div style="display: flex; justify-content: end">
@@ -13,6 +22,7 @@
           <input
             v-model="memberNames"
             type="text"
+            name="entry.243315525"
             required
             placeholder="Separate names with commas"
           />
@@ -21,13 +31,18 @@
       <div style="display: flex; justify-content: end">
         <label>
           Email:
-          <input v-model="email" type="email" required />
+          <input v-model="email" type="email" name="entry.676774802" required />
         </label>
       </div>
       <div style="display: flex; justify-content: end">
         <label>
           Contacts:
-          <input v-model="contacts" type="text" required />
+          <input
+            v-model="contacts"
+            type="text"
+            name="entry.1364162779"
+            required
+          />
         </label>
       </div>
       <button type="submit">Submit</button>
@@ -46,22 +61,17 @@ export default {
     };
   },
   methods: {
-    async submitForm() {
-      const response = await fetch("http://localhost:3000/register", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          teamName: this.teamName,
-          memberNames: this.memberNames,
-          email: this.email,
-          contacts: this.contacts,
-        }),
+    submitForm() {
+      console.log({
+        teamName: this.teamName,
+        memberNames: this.memberNames,
+        email: this.email,
+        contacts: this.contacts,
       });
-
-      const data = await response.json();
-      console.log(data.message);
+      this.teamName = "";
+      this.memberNames = "";
+      this.email = "";
+      this.contacts = "";
     },
   },
 };
