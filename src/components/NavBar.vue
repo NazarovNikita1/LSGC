@@ -15,8 +15,8 @@
       "
     >
       <router-link to="/"> <font-awesome-icon icon="home" /> Home </router-link>
-      <router-link to="/trainingdata">
-        <font-awesome-icon icon="database" /> Training data
+      <router-link to="/prompts">
+        <font-awesome-icon icon="database" /> Prompts
       </router-link>
       <router-link to="/participate">
         <font-awesome-icon icon="user" /> Participate
