@@ -1,10 +1,11 @@
 <template>
   <div class="baseline-container">
     <a
-      href="https://github.com/frdaria/prompts_for_llama/blob/main/fanfiction2.txt"
+      href="https://github.com/frdaria/prompts_for_llama/raw/main/your_word_file.docx"
       target="_blank"
+      download="your_word_file.docx"
     >
-      https://github.com/frdaria/prompts_for_llama/blob/main/fanfiction2.txt
+      Download Word File
     </a>
   </div>
 </template>
@@ -15,3 +16,4 @@
   padding: 5vh;
 }
 </style>
+
