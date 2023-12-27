@@ -3,7 +3,7 @@
     <a
       href="https://github.com/frdaria/prompts_for_llama/raw/main/your_word_file.docx"
       target="_blank"
-      download="your_word_file.docx"
+      download="norm output (1).docx"
     >
       Download Word File
     </a>
