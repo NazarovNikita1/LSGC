@@ -2,19 +2,39 @@
   <div class="app-container">
     <NavBar />
     <router-view />
+    <!--
+    <vue-particles
+      class="vue-particles"
+      color="#dedede"
+      :particleOpacity="0.7"
+      :particlesNumber="50"
+      shapeType="circle"
+      :particleSize="4"
+      linesColor="#dedede"
+      :linesWidth="1"
+      :lineLinked="true"
+      :lineOpacity="0.4"
+      :linesDistance="165"
+      :moveSpeed="2"
+      :hoverEffect="false"
+      hoverMode="grab"
+      :clickEffect="false"
+      clickMode="repulse"
+    />
     <FooterComponent />
+    -->
   </div>
 </template>
 
 <script>
 import NavBar from "./components/NavBar.vue";
-import FooterComponent from "./components/FooterComponent.vue";
+//import FooterComponent from "./components/FooterComponent.vue";
 import "./styles/reset.css";
 
 export default {
   name: "App",
   components: {
-    FooterComponent,
+    //FooterComponent,
     NavBar,
   },
 };

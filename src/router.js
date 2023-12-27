@@ -1,7 +1,9 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomePage from "./views/HomePage.vue";
 import ParticipatePage from "./views/ParticipatePage.vue";
-import TrainingPage from "./views/TrainingPage.vue";
+import PromptsPage from "./views/PromptsPage.vue";
+import BaselinePage from "./views/BaselinePage.vue";
+import CFPPage from "./views/CFPPage.vue";
 
 const routes = [
   {
@@ -15,9 +17,19 @@ const routes = [
     component: ParticipatePage,
   },
   {
-    path: "/trainingdata",
-    name: "TrainingData",
-    component: TrainingPage,
+    path: "/prompts",
+    name: "Prompts",
+    component: PromptsPage,
+  },
+  {
+    path: "/baseline",
+    name: "Baseline",
+    component: BaselinePage,
+  },
+  {
+    path: "/cfp",
+    name: "CFP",
+    component: CFPPage,
   },
 ];
 

@@ -18,6 +18,12 @@
       <router-link to="/prompts">
         <font-awesome-icon icon="database" /> Prompts
       </router-link>
+      <router-link to="/baseline">
+        <font-awesome-icon icon="database" /> Baseline
+      </router-link>
+      <router-link to="/cfp">
+        <font-awesome-icon icon="database" /> CFP
+      </router-link>
       <router-link to="/participate">
         <font-awesome-icon icon="user" /> Participate
       </router-link>
