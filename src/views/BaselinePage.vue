@@ -5,7 +5,7 @@
       target="_blank"
       download="norm output (1).docx"
     >
-      Click here to download the prompt example
+      Click here to download an example of fan fiction
     </a>
   </div>
 </template>
