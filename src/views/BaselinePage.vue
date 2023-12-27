@@ -5,7 +5,7 @@
       target="_blank"
       download="norm output (1).docx"
     >
-      Download Word File
+      Click here to download the prompt example
     </a>
   </div>
 </template>
