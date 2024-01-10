@@ -1,10 +1,10 @@
 <template>
   <div class="baseline-container">
     <a
-      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/prompts.pdf"
+      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/DreamGenTest2TheForgottenStudent.pdf"
       target="_blank"
     >
-      An example of fan fiction
+      Click here to download an example of fan fiction
     </a>
   </div>
 </template>
