@@ -1,7 +1,7 @@
 <template>
   <div class="baseline-container">
     <a
-      href="https://github.com/frdaria/prompts_for_llama/blob/main/fanfiction2.txt"
+      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/prompts.pdf"
       target="_blank"
     >
       An example of fan fiction
