@@ -1,10 +1,10 @@
 <template>
   <div class="prompts-container">
     <a
-      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/Prompts_and_stuffs.pdf"
+      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/prompts.pdf"
       target="_blank"
     >
-      Ссылка на PDF-файл
+      Click here to download the prompts
     </a>
   </div>
 </template>
