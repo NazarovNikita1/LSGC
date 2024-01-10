@@ -181,7 +181,7 @@
 
     <p>
     Contact
-    For further information about this task and dataset, please contact: <123123123>
+    For further information about this task and dataset, please contact: &lt;123123123&gt;
     </p>
   </div>
 </template>
