@@ -1,11 +1,10 @@
 <template>
   <div class="prompts-container">
     <a
-      href="https://colab.research.google.com/drive/1pcIPTtmchHuqtXkKvIs9tWDkmhgDwT18?usp=sharing"
+      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/Prompts_and_stuffs.pdf"
       target="_blank"
-      download="src/views/Prompts and stuff.pdf"
     >
-      Please click here to download a prompt
+      Ссылка на PDF-файл
     </a>
   </div>
 </template>
