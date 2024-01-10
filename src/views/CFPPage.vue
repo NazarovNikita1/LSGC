@@ -170,22 +170,19 @@
       possible.
     </p>
     <p class="program-step">
-      <p>
     Submission Platform
     Please refer to the <a href="https://elitr.github.io/automatic-minuting/submission.html">submission page</a> for details.
-</p>
-
-<p>
+    </p>
+    <p class="program-step">
     Publication
     All teams are required to submit a brief technical report describing their method. The
     proceedings will be published in the <a href="https://aclanthology.org/venues/inlg/">ACL Anthology</a>.
-</p>
+    </p>
 
-<p>
+    <p>
     Contact
     For further information about this task and dataset, please contact: <123123123>
-</p>
-
+    </p>
   </div>
 </template>
 
