@@ -3,8 +3,9 @@
     <a
       href="https://colab.research.google.com/drive/1pcIPTtmchHuqtXkKvIs9tWDkmhgDwT18?usp=sharing"
       target="_blank"
+      download="your_file_name.pdf"
     >
-      https://colab.research.google.com/drive/1pcIPTtmchHuqtXkKvIs9tWDkmhgDwT18?usp=sharing
+      Please click here to download a prompt
     </a>
   </div>
 </template>
