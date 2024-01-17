@@ -1,7 +1,7 @@
 <template>
   <div class="dataset-container">
     <p>
-      On the links below you can find examples for testing your systems. To access the datasets, please
+      In the following links you can find examples for testing your systems. To access the datasets, please
       <a
         href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/big_zachini_for_edition.txt"
         target="_blank"
