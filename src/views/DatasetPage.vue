@@ -5,7 +5,10 @@
     </p>
     <ul>
       <li>
-        <a href="src/views/datasettext1.txt" download>Text 1</a>
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext1.txt"
+      target="_blank"
+          >
+          Text 1</a>
       </li>
       <li>
         <a href="src/views/datasettext2.rtf" download>Text 2</a>
