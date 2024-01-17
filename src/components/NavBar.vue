@@ -15,14 +15,11 @@
       "
     >
       <router-link to="/"> <font-awesome-icon icon="home" /> Home </router-link>
-      <router-link to="/prompts">
-        <font-awesome-icon icon="database" /> Prompts
-      </router-link>
       <router-link to="/baseline">
         <font-awesome-icon icon="database" /> Baseline
       </router-link>
-      <router-link to="/starters">
-        <font-awesome-icon icon="database" /> Starters
+      <router-link to="/dataset">
+        <font-awesome-icon icon="database" /> Data Set
       </router-link>
       <router-link to="/cfp">
         <font-awesome-icon icon="database" /> CFP
