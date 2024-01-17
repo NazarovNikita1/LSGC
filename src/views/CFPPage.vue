@@ -110,11 +110,11 @@
       In any case, please clearly describe which data was used in what way in
       your system paper.
     </p>
-    <h2>Evaluation</h2>
+    <h2 style="color: white;">Evaluation:</h2>
     
-    <p>Automatic Evaluation</p>
-    
-    <p>Manual Evaluation</p>
+    <p style="color: white;">1) Automatic Evaluation</p>
+
+    <p style="color: white;">2) Manual Evaluation</p>
     
     <p class="program-step">
       A single number is not enough to evaluate the quality of a long story. We
