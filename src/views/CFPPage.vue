@@ -114,7 +114,7 @@
     
     <p>Automatic Evaluation</p>
     
-    <h3>Manual Evaluation</p>
+    <p>Manual Evaluation</p>
     
     <p class="program-step">
       A single number is not enough to evaluate the quality of a long story. We
