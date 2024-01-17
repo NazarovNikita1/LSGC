@@ -44,6 +44,7 @@
       text generation.
     </p>
     <h1>Long Story Generation Task</h1>
+    
     <p class="program-step">
       LSG Challenge asks participants to provide a system that can output a
       consistent human-like long story (a Harry Potter generic audience fanfic
@@ -52,6 +53,7 @@
       fiction are provided by organizers. The systems will be evaluated on a
       withheld test prompt (s).
     </p>
+    
     <p class="program-step">
       It is important to note that no copyright-eligible texts will be used in
       the shared task. The evaluation protocol below does not require using the
@@ -60,6 +62,7 @@
       knowledge of Harry Potter books is also required for the evaluation
       criteria.
     </p>
+    
     <p class="program-step">
       Given the open-ended and cutting-edge nature of the generation task and
       ongoing discussion on the best corpora and approaches to training LLMs, we
@@ -67,6 +70,7 @@
       performance and participants are open to train their models on any
       dataset, as long as it is described in the system report.
     </p>
+    
     <p class="program-step">
       We employ both automatic and human evaluation, described in the paper to
       evaluate the quality of the texts.
@@ -107,8 +111,11 @@
       your system paper.
     </p>
     <h2>Evaluation</h2>
-    <h3>Automatic Evaluation</h3>
-    <h3>Manual Evaluation</h3>
+    
+    <p>Automatic Evaluation</p>
+    
+    <h3>Manual Evaluation</p>
+    
     <p class="program-step">
       A single number is not enough to evaluate the quality of a long story. We
       adopt multiple human evaluation metrics to better measure model
@@ -116,10 +123,10 @@
       rate the texts across four dimensions:
     </p>
     <ol class="program-step">
-      <li>relevance (of topics in the text to the expected ones),</li>
-      <li>consistency (alignment between the parts of the text),</li>
-      <li>fluency (quality of individual sentences), and</li>
-      <li>coherence (quality of sequence of sentences).</li>
+      <li>1) relevance (of topics in the text to the expected ones),</li>
+      <li>2) consistency (alignment between the parts of the text),</li>
+      <li>3) fluency (quality of individual sentences),</li>
+      <li>4) coherence (quality of sequence of sentences).</li>
     </ol>
     <p class="program-step">
       Additionally, extending (Guan et al., 2022), we ask annotators to rate:
@@ -179,10 +186,6 @@
     proceedings will be published in the <a href="https://aclanthology.org/venues/inlg/">ACL Anthology</a>.
     </p>
 
-    <p>
-    Contact
-    For further information about this task and dataset, please contact: &lt;123123123&gt;
-    </p>
   </div>
 </template>
 
