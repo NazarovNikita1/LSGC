@@ -1,11 +1,6 @@
 <template>
   <div class="baseline-container">
-    <a
-      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/DreamGenTest2TheForgottenStudent.pdf"
-      target="_blank"
-    >
-      Click here to download an example of fan fiction
-    </a>
+    Please stay tuned, and we will soon announce some projects on this page.
   </div>
 </template>
 
@@ -15,3 +10,4 @@
   padding: 5vh;
 }
 </style>
+
