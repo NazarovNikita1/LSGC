@@ -21,6 +21,9 @@
       <router-link to="/baseline">
         <font-awesome-icon icon="database" /> Baseline
       </router-link>
+      <router-link to="/starters">
+        <font-awesome-icon icon="database" /> Starters
+      </router-link>
       <router-link to="/cfp">
         <font-awesome-icon icon="database" /> CFP
       </router-link>
