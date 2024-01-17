@@ -1,7 +1,7 @@
 <template>
   <div class="starters-container">
     <a
-      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/DreamGenTest2TheForgottenStudent.pdf"
+      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/big_zachini_for_edition (1).txt"
       target="_blank"
     >
       Click here to download an example of a fan fiction starter
