@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from "vue-router";
 import HomePage from "./views/HomePage.vue";
 import ParticipatePage from "./views/ParticipatePage.vue";
 import PromptsPage from "./views/PromptsPage.vue";
-import StartersPage from "./views/StartersPage.vue";
+import DatasetPage from "./views/DatasetPage.vue";
 import BaselinePage from "./views/BaselinePage.vue";
 import CFPPage from "./views/CFPPage.vue";
 
@@ -23,9 +23,9 @@ const routes = [
     component: PromptsPage,
   },
   {
-    path: "/starters",
-    name: "Starters",
-    component: StartersPage,
+    path: "/dataset",
+    name: "Dataset",
+    component: DatasetPage,
   },
   {
     path: "/baseline",
