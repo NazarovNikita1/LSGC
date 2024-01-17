@@ -1,11 +1,15 @@
 <template>
   <div class="dataset-container">
-    <a
-      href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/big_zachini_for_edition.txt"
-      target="_blank"
-    >
-      Click here to download data sets
-    </a>
+    <p>
+      On the links below you can find examples for testing your systems. To access the datasets, please
+      <a
+        href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/big_zachini_for_edition.txt"
+        target="_blank"
+      >
+        click here
+      </a>
+      .
+    </p>
   </div>
 </template>
 
