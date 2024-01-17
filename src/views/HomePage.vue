@@ -84,8 +84,6 @@
       >
         <li>
           <a
-            href="https://dstc11.dstc.community/calls/call-for-dstc12-track-proposals"
-          >
             Dec 25, 2023 - The Long Story Geeration Challenge website is up and
             running
           </a>
