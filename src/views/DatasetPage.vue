@@ -11,16 +11,28 @@
           Text 1</a>
       </li>
       <li>
-        <a href="src/views/datasettext2.rtf" download>Text 2</a>
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext2.rtf"
+      target="_blank"
+          >
+          Text 2</a>
       </li>
       <li>
-        <a href="src/views/datasettext3.rtf" download>Text 3</a>
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext3.rtf"
+      target="_blank"
+          >
+          Text 3</a>
       </li>
       <li>
-        <a href="src/views/datasettext4.rtf" download>Text 4</a>
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext4.rtf"
+      target="_blank"
+          >
+          Text 4</a>
       </li>
       <li>
-        <a href="src/views/datasettext5.rtf" download>Text 5</a>
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext5.rtf"
+      target="_blank"
+          >
+          Text 5</a>
       </li>
     </ul>
   </div>
