@@ -7,7 +7,6 @@
     >
       LSGC Registration
     </a>
-    <h2>________________________________________</h2>
     <h2>LSGC 2024: The 1st Shared Task on Long Story Generation</h2>
     <p class="program-step">
       Modeling long stories requires many additional abilities compared to short
