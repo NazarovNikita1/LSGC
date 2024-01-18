@@ -11,25 +11,25 @@
           Text 1</a>
       </li>
       <li>
-        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext2.rtf"
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext2.txt"
       target="_blank"
           >
           Text 2</a>
       </li>
       <li>
-        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext3.rtf"
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext3.txt"
       target="_blank"
           >
           Text 3</a>
       </li>
       <li>
-        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext4.rtf"
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext4.txt"
       target="_blank"
           >
           Text 4</a>
       </li>
       <li>
-        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext5.rtf"
+        <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/datasettext5.txt"
       target="_blank"
           >
           Text 5</a>
