@@ -78,20 +78,20 @@
     <h2>Procedure Overview</h2>
     <ol class="program-step">
       <li>
-        We have released dev prompts and the baseline generation results to
+        1) We have released dev prompts and the baseline generation results to
         illustrate the task.
       </li>
       <li>
-        The shared task itself will run until June 2024. You will be expected to
+        2) The shared task itself will run until June 2024. You will be expected to
         submit your system during the evaluation, before the System Output
         Submission deadline.
       </li>
       <li>
-        You will be expected to write a paper describing your system and submit
+        3) You will be expected to write a paper describing your system and submit
         by the System Report Submission deadline.
       </li>
       <li>
-        Due to time constraints, we expect that the official results of the task
+        4)Due to time constraints, we expect that the official results of the task
         will be available only after the System Report Submission deadline; you
         will have a chance to include them in your report before the
         Camera-Ready deadline for the report.
@@ -133,23 +133,23 @@
     </p>
     <ol class="program-step" start="5">
       <li>
-        knowledge about physical objects (LLM generated failure example: “I was
+        1) knowledge about physical objects (LLM generated failure example: “I was
         on shore in a boat; but I was not in the water. I was not in the water.
         I was in the water.”)
       </li>
       <li>
-        knowledge about abstract concepts (LLM generated failure example: “The
+        2) knowledge about abstract concepts (LLM generated failure example: “The
         twenty-eighth one is a twenty-eighth one. The twenty-nineteenth one is a
         twenty-eighth one. The twenty-ninth one is a twenty-ninth one. The
         twenty-tenth one is a twenty-tenth one.”)
       </li>
       <li>
-        causality (LLM generated failure example: “The first part was pretty
+        3) causality (LLM generated failure example: “The first part was pretty
         easy. The second one, on the other hand, took a lot of practice. I had a
         lot of difficulty with the first one.”)
       </li>
       <li>
-        the order of events (LLM generated failure example: “This is the way all
+        4) the order of events (LLM generated failure example: “This is the way all
         voyages of travel are done in all ages of the earth; they come to it and
         lay it down in the same fashion: — They get a wind, sail about awhile,
         and gather what stores are sufficient for a week, or for one night’s
