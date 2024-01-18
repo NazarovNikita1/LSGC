@@ -35,7 +35,7 @@
       non-autoregressive text generation architectures and other subfields of
       text generation.
     </p>
-    <h2 style="margin-top: 2vh">Importanrt dates:</h2>
+    <h2 style="margin-top: 2vh">Important dates:</h2>
     <div
       style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh"
     >
