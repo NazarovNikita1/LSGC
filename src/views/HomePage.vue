@@ -6,17 +6,17 @@
     </p>
     <ol class="program-step">
       <li>
-        commonsense reasoning regarding characters' reaction and intention, and
+        1) commonsense reasoning regarding characters' reaction and intention, and
         knowledge about physical objects (e.g., "river") and abstract concepts
         (e.g., "irony");
       </li>
       <li>
-        modeling discourse-level features such as inter-sentence relations
+        2) modeling discourse-level features such as inter-sentence relations
         (e.g., causality) and global discourse structures (e.g., the order of
         events);
       </li>
       <li>
-        the generation coherence and controllability, which require both
+        3) the generation coherence and controllability, which require both
         maintaining a coherent plot and adhering to controllable attributes
         (e.g., topics).
       </li>
