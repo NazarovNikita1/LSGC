@@ -10,7 +10,7 @@
         knowledge about physical objects (e.g., "river") and abstract concepts
         (e.g., "irony");
       </li>
-      </li>
+      <li>
         modeling discourse-level features such as inter-sentence relations
         (e.g., causality) and global discourse structures (e.g., the order of
         events);
