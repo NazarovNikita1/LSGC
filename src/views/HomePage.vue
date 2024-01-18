@@ -48,7 +48,7 @@
         register to the task.
       </p>
       <p class="program-step">
-        <strong>Jan 27, 2024:</strong> The leaderboard is open; participants can
+        <strong>Feb, 2024:</strong> The leaderboard is open; participants can
         submit their systems to the organizers, and the online leaderboard keeps
         updating the best performance using automatic evaluation metrics.
       </p>
