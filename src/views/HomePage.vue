@@ -3,11 +3,7 @@
     <h1>Shared Task Overview</h1>
     <p class="program-step">
       Modeling long stories requires many additional abilities compared to short
-      texts, including
-    </p>
-    <ol class="program-step">
-      <li>
-        commonsense reasoning regarding characters' reaction and intention, and
+      texts, including commonsense reasoning regarding characters' reaction and intention, and
         knowledge about physical objects (e.g., "river") and abstract concepts
         (e.g., "irony");
       </li>
