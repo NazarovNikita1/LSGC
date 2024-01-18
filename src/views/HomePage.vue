@@ -2,14 +2,13 @@
   <div class="homepage-container">
     <h1>Shared Task Overview</h1>
     <p class="program-step">
-       Modeling long stories requires many additional abilities compared to short
-      texts, including
+       Modeling long stories requires many additional abilities compared to short texts, including:
     </p>
     <ol class="program-step">
-      <li> commonsense reasoning regarding characters' reaction and intention, and
+      <li>
+        commonsense reasoning regarding characters' reaction and intention, and
         knowledge about physical objects (e.g., "river") and abstract concepts
         (e.g., "irony");
-      </p>
       <li>
         modeling discourse-level features such as inter-sentence relations
         (e.g., causality) and global discourse structures (e.g., the order of
