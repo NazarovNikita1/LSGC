@@ -19,7 +19,7 @@
         <font-awesome-icon icon="database" /> Baseline
       </router-link>
       <router-link to="/dataset">
-        <font-awesome-icon icon="database" /> Data Set
+        <font-awesome-icon icon="database" /> Dataset
       </router-link>
       <router-link to="/cfp">
         <font-awesome-icon icon="database" /> CFP
