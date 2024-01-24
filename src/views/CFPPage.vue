@@ -33,8 +33,7 @@
       The human-like long story generation (LSG) challenge we propose asks
       models to output a consistent human-like long story (a Harry Potter
       generic audience fanfic in English), given a prompt of about 1K tokens.
-      The text will be evaluated by automated metrics described in the paper,
-      and a human evaluation protocol.
+      The text will be evaluated by automated metrics described in the <a href="https://aclanthology.org/2023.inlg-genchal.2.pdf">paper</a> and a human evaluation protocol.
     </p>
     <p class="program-step">
       We hope that this challenge can gain interest from the NLG community and
@@ -71,7 +70,7 @@
     </p>
     
     <p class="program-step">
-      We employ both automatic and human evaluation, described in the paper to
+      We employ both automatic and human evaluation, described in the <a href="https://aclanthology.org/2023.inlg-genchal.2.pdf">paper</a> to
       evaluate the quality of the texts.
     </p>
     <h2>Procedure Overview</h2>
