@@ -1,12 +1,11 @@
 <template>
   <div class="homepage-container">
-    <h1>LSGC Call for Participation</h1>
-    <a
-      href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAfe8TVJUM1NLRzdIOTE4REtETDJCVjFDOU1OTFo1Ni4u"
+    <h1><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAfe8TVJUM1NLRzdIOTE4REtETDJCVjFDOU1OTFo1Ni4u"
       target="_blank"
     >
       LSGC Registration
-    </a>
+      </a>
+    </h1>
     <h2>LSGC 2024: The 1st Shared Task on Long Story Generation</h2>
     <p class="program-step">
       Modeling long stories requires many additional abilities compared to short
