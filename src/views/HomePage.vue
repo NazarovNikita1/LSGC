@@ -33,6 +33,9 @@
       non-autoregressive text generation architectures and other subfields of
       text generation.
     </p>
+    <p class="program-step">
+      An important note! There is no training data yet.
+    </p>
     <h2 style="margin-top: 2vh">Important dates:</h2>
     <div
       style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh"
