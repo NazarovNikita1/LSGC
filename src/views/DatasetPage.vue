@@ -35,12 +35,13 @@
           Text 5</a>
       </li>
     </ul>
-  </div>
-  <p>
+    <p>
     We do not provide any dataset to train your systems on. 
     Participants can use models pretrained and finetuned on any corpora. 
     System description papers though should state what models were used and describe any datasets that were used for finetuning.
-  </p>
+    </p>
+  </div>
+  
 </template>
 
 <style>
