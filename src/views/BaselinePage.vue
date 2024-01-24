@@ -7,7 +7,7 @@
   <template>
   <div class="baseline-container">
     <p>
-      In this <a href="https://example.com/path/to/your.pdf" download>link</a> you can find a full fanfiction example
+      In this <a href="src/views/result_fanfiction.docx" download>link</a> you can find an example of a full fanfic created from the code above
     </p>
   </div>
 </template>
