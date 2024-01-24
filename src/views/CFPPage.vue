@@ -176,7 +176,7 @@
       possible.
     </p>
     <p class="program-step">
-    Submission Platform
+    Submission Platform:
     Please refer to the <a href="https://elitr.github.io/automatic-minuting/submission.html">submission page</a> for details.
     </p>
     <p class="program-step">
