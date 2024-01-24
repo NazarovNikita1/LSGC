@@ -1,6 +1,8 @@
 <template>
   <div class="baseline-container">
-    Please stay tuned, and we will soon announce some projects on this page.
+    <p>
+      In this <a href="https://colab.research.google.com/drive/1twQTqVUxSUKrgKcvg5v_a4Sw9MWhvpGY?usp=sharing" target="_blank">link</a> you can find a Colab code that generates the fanfictions:
+    </p>
   </div>
 </template>
 
