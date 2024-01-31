@@ -34,7 +34,7 @@
       text generation.
     </p>
     <p class="program-step">
-      An important note! There is no training data yet.
+      An important note! There is no training data.
     </p>
     <h2 style="margin-top: 2vh">Important dates:</h2>
     <div
