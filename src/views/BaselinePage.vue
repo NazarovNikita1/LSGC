@@ -7,7 +7,6 @@
   <div class="baseline-container">
     <p>
       In this <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/result_fanfiction.docx" download>link</a> you can find an example of a full fanfic created from the code above
-      target="_blank"
     </p>
   </div>
 </template>
