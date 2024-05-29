@@ -45,25 +45,25 @@
         2023 conference.
       </p>
       <p class="program-step">
-        <strong>Dec, 2023:</strong> The task website is up; participants can
+        <strong>DEC, 2023:</strong> The task website is up; participants can
         register to the task.
       </p>
       <p class="program-step">
-        <strong>Feb, 2024:</strong> The leaderboard is open; participants can
+        <strong>FEB, 2024:</strong> The leaderboard is open; participants can
         submit their systems to the organizers, and the online leaderboard keeps
         updating the best performance using automatic evaluation metrics.
       </p>
       <p class="program-step">
-        <strong>June 1, 2024:</strong> The submission is closed; organizers
+        <strong>JULY 1, 2024:</strong> The submission is closed; organizers
         conduct manual evaluation.
       </p>
       <p class="program-step">
-        <strong>Aug, 2024:</strong> The LSG Challenge shared task is fully
+        <strong>AUG, 2024:</strong> The LSG Challenge shared task is fully
         completed. Organizers submit participant reports and challenge reports
         to INLG 2024 and present at the conference.
       </p>
       <p class="program-step">
-        <strong> around Sep 25, 2024:</strong> The LSG Challenge workshop is
+        <strong> around SEP 25, 2024:</strong> The LSG Challenge workshop is
         held at INLG 2024 conference in Tokyo, Japan.
       </p>
       <p class="program-step">
@@ -84,7 +84,7 @@
         "
       >
         <li>
-            Dec 25, 2023 - The Long Story Geeration Challenge website is up and
+            DEC 25, 2023 - The Long Story Geeration Challenge website is up and
             running
         </li>
       </ul>
