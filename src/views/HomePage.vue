@@ -36,12 +36,12 @@
     <p class="program-step">
       An important note! There is no training data.
     </p>
-    <h2 style="margin-top: 2vh">Important dates:</h2>
+    <h2 style="margin-top: 2vh">IMPORTANT DATES:</h2>
     <div
       style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh"
     >
       <p class="program-step">
-        <strong>Sep, 2023:</strong> The shared task is announced at the INLG
+        <strong>SEP, 2023:</strong> The shared task is announced at the INLG
         2023 conference.
       </p>
       <p class="program-step">
@@ -53,7 +53,7 @@
         submit their systems to the organizers, and the online leaderboard keeps
         updating the best performance using automatic evaluation metrics.
       </p>
-      <p class="program-step">
+      <p class="program-step highlight-red">
         <strong>JULY 1, 2024:</strong> The submission is closed; organizers
         conduct manual evaluation.
       </p>
@@ -105,7 +105,7 @@
   margin-bottom: 1em;
 }
 
-.program-step strong[style*="color: red;"] {
+.highlight-red strong {
   color: red;
 }
 </style>
