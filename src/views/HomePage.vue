@@ -104,4 +104,8 @@
   font-size: 1.2em;
   margin-bottom: 1em;
 }
+
+.program-step strong[style*="color: red;"] {
+  color: red;
+}
 </style>
