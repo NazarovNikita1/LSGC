@@ -36,7 +36,7 @@
     <p class="program-step">
       An important note! There is no training data.
     </p>
-    <h2 style="margin-top: 2vh">IMPORTANT DATES:</h2>
+    <h1>IMPORTANT DATES:</h1>
     <div
       style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh"
     >
@@ -71,18 +71,6 @@
         (UTC-12).
       </p>
       <h1>News</h1>
-      <ul
-        style="
-          gap: 2vh;
-          display: flex;
-          flex-direction: column;
-          margin-top: 3vh;
-          margin-bottom: 3vh;
-          list-style-type: disc;
-          color: #fff;
-          margin-left: 1vw;
-        "
-      >
         <p>
             DEC 25, 2023 - The Long Story Geeration Challenge website is up and
             running
@@ -90,7 +78,6 @@
         <p>
             JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a> (GAPELMAPER)
         </p>
-      </ul>
     </div>
   </div>
 </template>
