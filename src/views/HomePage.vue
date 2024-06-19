@@ -83,13 +83,13 @@
           margin-left: 1vw;
         "
       >
-        <li>
+        <p>
             DEC 25, 2023 - The Long Story Geeration Challenge website is up and
             running
-        </li>
-        <li>
-            JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a>
-        </li>
+        </p>
+        <p>
+            JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a> (GAPELMAPER)
+        </p>
       </ul>
     </div>
   </div>
