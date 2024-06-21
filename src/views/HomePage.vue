@@ -66,6 +66,9 @@
       <p class="program-step">
         JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a> (GAPELMAPER)
       </p>
+      <p class="program-step">
+        JUNE 21, 2024 - Two <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">new</a> notebooks added
+      </p>
     </div>
   </div>
 </template>
