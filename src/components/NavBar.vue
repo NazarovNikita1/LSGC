@@ -27,6 +27,9 @@
       <router-link to="/participate">
         <font-awesome-icon icon="user" /> Participate
       </router-link>
+      <router-link to="/submission">
+        <font-awesome-icon icon="user" /> Submission
+      </router-link>
     </div>
   </div>
 </template>
