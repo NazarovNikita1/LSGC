@@ -4,7 +4,7 @@ import ParticipatePage from "./views/ParticipatePage.vue";
 import DatasetPage from "./views/DatasetPage.vue";
 import BaselinePage from "./views/BaselinePage.vue";
 import CFPPage from "./views/CFPPage.vue";
-import Submission from "./views/Submission.vue";
+import Submission from "./views/SubmissionPage.vue";
 const routes = [
   {
     path: "/",
@@ -34,7 +34,7 @@ const routes = [
   {
     path: "/submission",
     name: "Submission",
-    component: Submission,
+    component: SubmissionPage,
   },
 ];
 
