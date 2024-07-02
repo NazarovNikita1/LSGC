@@ -25,7 +25,7 @@
         <strong>FEB, 2024:</strong> The leaderboard is open; participants can submit their systems to the organizers, and the online leaderboard keeps updating the best performance using automatic evaluation metrics.
       </p>
       <p class="program-step">
-        <strong>JULY 1, 2024:</strong> The submission is closed; organizers conduct manual evaluation.
+        <strong>JULY 15, 2024:</strong> The submission is closed; organizers conduct manual evaluation.
       </p>
       <p class="program-step">
         <strong>AUG, 2024:</strong> The LSG Challenge shared task is fully completed. Organizers submit participant reports and challenge reports to INLG 2024 and present at the conference.
