@@ -11,7 +11,7 @@
         JUNE 21, 2024 - Two <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">new</a> notebooks added
       </p>
       <p class="program-step">
-        JULY 2, 2024 - Acceptance of applications has been extended until July 15
+        JULY 2, 2024 - Deadline for applications is extended to July 15
       </p>  
     <h1>IMPORTANT DATES:</h1>
     <div style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh">
