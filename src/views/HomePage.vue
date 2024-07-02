@@ -1,6 +1,53 @@
 <template>
   <div class="homepage-container">
-    <h1>Shared Task Overview</h1>
+   <h1>NEWS</h1>
+      <p class="program-step">
+        DEC 25, 2023 - The Long Story Geeration Challenge website is up and running
+      </p>
+      <p class="program-step">
+        JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a> (GAPELMAPER)
+      </p>
+      <p class="program-step">
+        JUNE 21, 2024 - Two <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">new</a> notebooks added
+      </p>
+      <p class="program-step">
+        JULY 2, 2024 - Acceptance of applications has been extended until July 15
+      </p>  
+    </p>
+    <h1>IMPORTANT DATES:</h1>
+    <div style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh">
+      <p class="program-step">
+        <strong>SEP, 2023:</strong> The shared task is announced at the INLG 2023 conference.
+      </p>
+      <p class="program-step">
+        <strong>DEC, 2023:</strong> The task website is up; participants can register to the task.
+      </p>
+      <p class="program-step">
+        <strong>FEB, 2024:</strong> The leaderboard is open; participants can submit their systems to the organizers, and the online leaderboard keeps updating the best performance using automatic evaluation metrics.
+      </p>
+      <p class="program-step highlight-red">
+        <strong>JULY 1, 2024:</strong> The submission is closed; organizers conduct manual evaluation.
+      </p>
+      <p class="program-step">
+        <strong>AUG, 2024:</strong> The LSG Challenge shared task is fully completed. Organizers submit participant reports and challenge reports to INLG 2024 and present at the conference.
+      </p>
+      <p class="program-step">
+        <strong> around SEP 25, 2024:</strong> The LSG Challenge workshop is held at INLG 2024 conference in Tokyo, Japan.
+      </p>
+      <p class="program-step">
+        All submission deadlines are 11:59 PM AoE (Anywhere on Earth) Time Zone (UTC-12).
+      </p>
+      <h1>News</h1>
+      <p class="program-step">
+        DEC 25, 2023 - The Long Story Geeration Challenge website is up and running
+      </p>
+      <p class="program-step">
+        JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a> (GAPELMAPER)
+      </p>
+      <p class="program-step">
+        JUNE 21, 2024 - Two <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">new</a> notebooks added
+      </p>
+      <h1>Shared Task Overview</h1>
     <p class="program-step">
       Modeling long stories requires many additional abilities compared to short texts, including:
     </p>
@@ -36,39 +83,6 @@
     <p class="program-step">
       An important note! There is no training data.
     </p>
-    <h1>IMPORTANT DATES:</h1>
-    <div style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh">
-      <p class="program-step">
-        <strong>SEP, 2023:</strong> The shared task is announced at the INLG 2023 conference.
-      </p>
-      <p class="program-step">
-        <strong>DEC, 2023:</strong> The task website is up; participants can register to the task.
-      </p>
-      <p class="program-step">
-        <strong>FEB, 2024:</strong> The leaderboard is open; participants can submit their systems to the organizers, and the online leaderboard keeps updating the best performance using automatic evaluation metrics.
-      </p>
-      <p class="program-step highlight-red">
-        <strong>JULY 1, 2024:</strong> The submission is closed; organizers conduct manual evaluation.
-      </p>
-      <p class="program-step">
-        <strong>AUG, 2024:</strong> The LSG Challenge shared task is fully completed. Organizers submit participant reports and challenge reports to INLG 2024 and present at the conference.
-      </p>
-      <p class="program-step">
-        <strong> around SEP 25, 2024:</strong> The LSG Challenge workshop is held at INLG 2024 conference in Tokyo, Japan.
-      </p>
-      <p class="program-step">
-        All submission deadlines are 11:59 PM AoE (Anywhere on Earth) Time Zone (UTC-12).
-      </p>
-      <h1>News</h1>
-      <p class="program-step">
-        DEC 25, 2023 - The Long Story Geeration Challenge website is up and running
-      </p>
-      <p class="program-step">
-        JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a> (GAPELMAPER)
-      </p>
-      <p class="program-step">
-        JUNE 21, 2024 - Two <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">new</a> notebooks added
-      </p>
     </div>
   </div>
 </template>
