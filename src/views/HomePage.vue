@@ -13,7 +13,6 @@
       <p class="program-step">
         JULY 2, 2024 - Acceptance of applications has been extended until July 15
       </p>  
-    </p>
     <h1>IMPORTANT DATES:</h1>
     <div style="gap: 2vh; display: flex; flex-direction: column; margin-top: 3vh">
       <p class="program-step">
