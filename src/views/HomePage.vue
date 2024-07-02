@@ -10,7 +10,7 @@
       <p class="program-step">
         JUNE 21, 2024 - Two <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">new</a> notebooks added
       </p>
-      <p class="program-step">
+      <p class="program-step highlight-red">
         JULY 2, 2024 - Deadline for applications is extended to July 15
       </p>  
     <h1>IMPORTANT DATES:</h1>
@@ -24,7 +24,7 @@
       <p class="program-step">
         <strong>FEB, 2024:</strong> The leaderboard is open; participants can submit their systems to the organizers, and the online leaderboard keeps updating the best performance using automatic evaluation metrics.
       </p>
-      <p class="program-step highlight-red">
+      <p class="program-step">
         <strong>JULY 1, 2024:</strong> The submission is closed; organizers conduct manual evaluation.
       </p>
       <p class="program-step">
@@ -35,16 +35,6 @@
       </p>
       <p class="program-step">
         All submission deadlines are 11:59 PM AoE (Anywhere on Earth) Time Zone (UTC-12).
-      </p>
-      <h1>News</h1>
-      <p class="program-step">
-        DEC 25, 2023 - The Long Story Geeration Challenge website is up and running
-      </p>
-      <p class="program-step">
-        JUNE 19, 2024 - Added <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">reference implementation</a> (GAPELMAPER)
-      </p>
-      <p class="program-step">
-        JUNE 21, 2024 - Two <a href="https://github.com/nickm197/GAPELMAPER/tree/main" target="_blank">new</a> notebooks added
       </p>
       <h1>Shared Task Overview</h1>
     <p class="program-step">
