@@ -70,7 +70,7 @@
       text generation.
     </p>
     <p class="program-step">
-      An important note! There is no training data.
+      This competition is supported by the Higher School of Economics (HSE) and Tomsk State University (TSU)
     </p>
     </div>
   </div>
