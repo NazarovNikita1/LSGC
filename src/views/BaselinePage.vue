@@ -6,7 +6,7 @@
   </div>
   <div class="baseline-container">
     <p>
-      In this <a href="src/views/cleaned.txt" download>link</a> you can find an example of a full fanfic created from the code above
+      In this <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/cleaned.txt" download>link</a> you can find an example of a full fanfic created from the code above
     </p>
   </div>
 </template>
