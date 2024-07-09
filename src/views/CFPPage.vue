@@ -175,7 +175,7 @@
     </p>
     <p class="program-step">
     Submission Platform:
-    Please refer to the <a href="https://elitr.github.io/automatic-minuting/submission.html">submission page</a> for details.
+    Please refer to the <a href="https://forms.gle/LFw6gTQRUzhkuzut5">submission page</a> for details.
     </p>
     <p class="program-step">
     Publication
