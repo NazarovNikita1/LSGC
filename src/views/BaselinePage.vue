@@ -1,7 +1,7 @@
 <template>
   <div class="baseline-container">
     <p>
-      In this <a href="https://colab.research.google.com/github/NazarovNikita1/LSGC/main/src/views/baseline_notebook.ipynb" download>link</a> you can find a Colab code that generates the fanfictions
+      In this <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/baseline_notebook.ipynb" download>link</a> you can find a Colab code that generates the fanfictions
     </p>
   </div>
   <div class="baseline-container">
