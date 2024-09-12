@@ -2,6 +2,12 @@
   <div class="homepage-container">
    <h1>NEWS</h1>
       <p class="program-step">
+        SEP 12, 2024 - All three generated texts are now available:
+      <a href="src/views/Text1.txt" download="Text1.txt">Text 1</a>
+      <a href="src/views/Text2.txt" download="Text2.txt">Text 2</a>
+      <a href="src/views/Text3.txt" download="Text3.txt">Text 3</a>
+      </p>
+      <p class="program-step">
         DEC 25, 2023 - The Long Story Geeration Challenge website is up and running
       </p>
       <p class="program-step">
