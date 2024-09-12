@@ -10,6 +10,7 @@
       <p class="program-step">
         <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/Text2.txt" download>Text 2</a>
       </p>
+      <p class="program-step">
         <a href="https://raw.githubusercontent.com/NazarovNikita1/LSGC/main/src/views/Text2.txt" download>Text 3</a>
       </p>
       <p class="program-step">
